@@ -14,10 +14,10 @@ It will install the necessary packages to run the project.
 ### `Rapid API`
 
 URL, API-KEY and API-HOST- All these details you will get on Rapid API
--Logon to [Rapid API](https://rapidapi.com/)
--Search for API
--Subscribe to it.
--In the code snippet(Axios) you will find the necessary information to be used.
+- Logon to [Rapid API](https://rapidapi.com/)
+- Search for API
+- Subscribe to it.
+- In the code snippet(Axios) you will find the necessary information to be used.
 
 ### `Run the project`
 - Open the terminal and type **npm start**. This will start the development and will run the project in the browser on *localhost:3000*.
