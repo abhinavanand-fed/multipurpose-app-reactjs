@@ -1,0 +1,18 @@
+.meme-container {
+    position: relative;
+  }
+  
+.meme-button {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+  
+.meme-img {
+    margin-top: 20px;
+    display: block;
+  }
+  

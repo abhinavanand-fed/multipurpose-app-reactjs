@@ -1,0 +1,5 @@
+.weather-container {
+    background-color: white; /* initial background color */
+    transition: background-color 0.5s ease-in-out; /* transition for background color */
+}
+

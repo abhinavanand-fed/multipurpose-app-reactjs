@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    color: blue;
+  }
+  
+  p {
+    color: purple;
+  }
+  
+  .App div {
+    border: none;
+  }
+  
+  
+  .about-me-slider {
+    height: 0;
+    
+    transition: height 15s ease-out;
+  }
+  
+  .about-me-slider.open {
+    height: 200px; /* Adjust this value to control the height of the sliding bar */
+  }
+  
+  
+  
+  .header {
+    display: flex;
+    overflow-x: visible;
+    align-items: center;
+  }
+  
+  .circle{
+    border-radius:50%;
+    overflow: hidden;
+    background-color: grey;
+}
+  
